@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.agents/
+.gemini/
+Planejamento_Biblioteca.docx

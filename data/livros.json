@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "disponivel": true
+    },
+    {
+        "id": 2,
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": 1881,
+        "disponivel": true
+    },
+    {
+        "id": 3,
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "ano": 1890,
+        "disponivel": false
+    },
+    {
+        "id": 4,
+        "titulo": "Iracema",
+        "autor": "José de Alencar",
+        "ano": 1865,
+        "disponivel": true
+    },
+    {
+        "id": 5,
+        "titulo": "Senhora",
+        "autor": "José de Alencar",
+        "ano": 1875,
+        "disponivel": true
+    },
+    {
+        "id": 6,
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "ano": 1938,
+        "disponivel": false
+    },
+    {
+        "id": 7,
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "ano": 1937,
+        "disponivel": true
+    },
+    {
+        "id": 8,
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "João Guimarães Rosa",
+        "ano": 1956,
+        "disponivel": true
+    },
+    {
+        "id": 9,
+        "titulo": "A Hora da Estrela",
+        "autor": "Clarice Lispector",
+        "ano": 1977,
+        "disponivel": false
+    },
+    {
+        "id": 10,
+        "titulo": "O Alienista",
+        "autor": "Machado de Assis",
+        "ano": 1882,
+        "disponivel": true
+    },
+    {
+        "id": 11,
+        "titulo": "Quincas Borba",
+        "autor": "Machado de Assis",
+        "ano": 1891,
+        "disponivel": true
+    },
+    {
+        "id": 12,
+        "titulo": "Macunaíma",
+        "autor": "Mário de Andrade",
+        "ano": 1928,
+        "disponivel": false
+    },
+    {
+        "id": 13,
+        "titulo": "O Guarani",
+        "autor": "José de Alencar",
+        "ano": 1857,
+        "disponivel": true
+    },
+    {
+        "id": 14,
+        "titulo": "São Bernardo",
+        "autor": "Graciliano Ramos",
+        "ano": 1934,
+        "disponivel": true
+    },
+    {
+        "id": 15,
+        "titulo": "A Moreninha",
+        "autor": "Joaquim Manuel de Macedo",
+        "ano": 1844,
+        "disponivel": false
+    },
+    {
+        "id": 16,
+        "titulo": "O Ateneu",
+        "autor": "Raul Pompeia",
+        "ano": 1888,
+        "disponivel": true
+    },
+    {
+        "id": 17,
+        "titulo": "Sagarana",
+        "autor": "João Guimarães Rosa",
+        "ano": 1946,
+        "disponivel": true
+    },
+    {
+        "id": 18,
+        "titulo": "Laços de Família",
+        "autor": "Clarice Lispector",
+        "ano": 1960,
+        "disponivel": false
+    },
+    {
+        "id": 19,
+        "titulo": "A Escrava Isaura",
+        "autor": "Bernardo Guimarães",
+        "ano": 1875,
+        "disponivel": true
+    },
+    {
+        "id": 20,
+        "titulo": "Lucíola",
+        "autor": "José de Alencar",
+        "ano": 1862,
+        "disponivel": true
+    },
+    {
+        "id": 21,
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "ano": 1937,
+        "disponivel": true
+    },
+    {
+        "id": 22,
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "ano": 1954,
+        "disponivel": false
+    },
+    {
+        "id": 23,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "disponivel": true
+    },
+    {
+        "id": 24,
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "ano": 1945,
+        "disponivel": true
+    },
+    {
+        "id": 25,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "disponivel": false
+    },
+    {
+        "id": 26,
+        "titulo": "Harry Potter e a Câmara Secreta",
+        "autor": "J.K. Rowling",
+        "ano": 1998,
+        "disponivel": true
+    },
+    {
+        "id": 27,
+        "titulo": "Percy Jackson e o Ladrão de Raios",
+        "autor": "Rick Riordan",
+        "ano": 2005,
+        "disponivel": true
+    },
+    {
+        "id": 28,
+        "titulo": "Jogos Vorazes",
+        "autor": "Suzanne Collins",
+        "ano": 2008,
+        "disponivel": false
+    },
+    {
+        "id": 29,
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "ano": 1965,
+        "disponivel": true
+    },
+    {
+        "id": 30,
+        "titulo": "Fundação",
+        "autor": "Isaac Asimov",
+        "ano": 1951,
+        "disponivel": true
+    },
+    {
+        "id": 31,
+        "titulo": "Neuromancer",
+        "autor": "William Gibson",
+        "ano": 1984,
+        "disponivel": false
+    },
+    {
+        "id": 32,
+        "titulo": "O Nome do Vento",
+        "autor": "Patrick Rothfuss",
+        "ano": 2007,
+        "disponivel": true
+    },
+    {
+        "id": 33,
+        "titulo": "Mistborn",
+        "autor": "Brandon Sanderson",
+        "ano": 2006,
+        "disponivel": true
+    },
+    {
+        "id": 34,
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "ano": 1897,
+        "disponivel": false
+    },
+    {
+        "id": 35,
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "ano": 1818,
+        "disponivel": true
+    }
+]
