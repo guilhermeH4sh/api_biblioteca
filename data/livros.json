@@ -243,5 +243,19 @@
         "autor": "Mary Shelley",
         "ano": 1818,
         "disponivel": true
+    },
+    {
+        "id": 36,
+        "titulo": "A Metamorfose",
+        "autor": "Franz Kafka",
+        "ano": 1978,
+        "disponivel": true
+    },
+    {
+        "id": 37,
+        "titulo": "o Corvo",
+        "autor": "Guilherme Teste",
+        "ano": 2026,
+        "disponivel": true
     }
 ]
